@@ -42,6 +42,14 @@ h4 {font-size: 1.067em;}
 
 small, .font_small {font-size: 0.937em;}
 
+.no-marg-top {
+	margin-top: 0;
+}
+
+.no-marg-bottom {
+	margin-bottom: 0;
+}
+
 figcaption {
 	line-height: 1.8;
 }
@@ -73,5 +81,9 @@ blockquote > p {
 
 blockquote > footer {
 	text-align: right;
+}
+
+ol {
+	margin-left: 1.45rem;  
 }
 
