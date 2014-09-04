@@ -89,6 +89,10 @@ blockquote > footer {
 	text-align: right;
 }
 
+cite {
+	margin-left: 5px;
+}
+
 ol {
 	margin-left: 1.45rem;  
 }
